@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418682792306",
+    "project_id": "mobite-android",
+    "storage_bucket": "mobite-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418682792306:android:674ca3f7f696429e3fd5eb",
+        "android_client_info": {
+          "package_name": "com.example.delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418682792306-hm4ecs2osbdplh33fournktqfafcml0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7x6MoKvvd7A7Y0V4RsyuhQKwyoY-zN0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418682792306-hm4ecs2osbdplh33fournktqfafcml0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
